@@ -1,11 +1,9 @@
 ---
 name: skill_bookofchanges
 description: "当用户需要起卦、卜卦、卜事、用金钱卦占卜问事时使用：自动起卦并输出本卦、变卦、错卦、综卦、互卦、杂卦结果"
-version: "20260813.150000"
+version: "20260828.1358"
 author: zhang9w0v5
-metadata:
-  hermes:
-    tags: [divination, yijing, book-of-changes]
+tags: [divination, yijing, book-of-changes]
 ---
 
 # 易经卜卦（Book of Changes）

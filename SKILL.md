@@ -1,7 +1,8 @@
 ---
-name: bookofchanges
+name: skill_bookofchanges
 description: "通过金钱卦（六爻）起卦，输出本卦、变卦、错卦、综卦、互卦、杂卦结果。"
-version: "20260625.1700"
+version: "20260828.1358"
+author: zhang9w0v5
 tags: [divination, yijing, book-of-changes]
 ---
 
